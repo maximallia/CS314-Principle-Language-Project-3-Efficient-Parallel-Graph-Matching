@@ -1,4 +1,4 @@
-# Principle-Language-Project-3-Efficient-Parallel-Graph-Matching
+# CS314-Principle-Language-Project-3-Efficient-Parallel-Graph-Matching
 
 Summary:
 
